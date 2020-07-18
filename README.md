@@ -1,1 +1,1 @@
-# github-task
+# Epam git task
